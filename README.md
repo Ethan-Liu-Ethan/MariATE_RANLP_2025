@@ -8,7 +8,7 @@ This repository contains supplementary materials for the paper "MariATE: Automat
 - Véronique Hoste (Ghent University)
 
 ## Contents
-- `MariATE_Appendices.pdf`: Supplementary materials including detailed experimental results, additional examples, and extended analysis referenced in the main paper.
+- `MariATE_Appendices.pdf`: All appendices mentioned in the main text.
 
 ## Citation
 If you use this work, please cite:
